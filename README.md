@@ -1,2 +1,2 @@
-# Weather
-Swift-SmallWeather
+# README
+Swift-Practical Case
